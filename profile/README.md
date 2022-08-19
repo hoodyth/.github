@@ -1,13 +1,13 @@
-# Hello 👋, Welcome to Hoodyth 🚀
+# Hola 👋, Bienvenidos a Hoodyth 🚀
 
-🌏 [English](https://github.com/hoodyth/.github/blob/main/profile/README.md) | [Spanish](https://github.com/hoodyth/.github/blob/main/profile/README.es.md)
+🌏 [Inglés](https://github.com/hoodyth/.github/blob/main/profile/README.md) | [Español](https://github.com/hoodyth/.github/blob/main/profile/README.md)
 
-# A Tech Community
+# Una comunidad tecnológica
 
-# Want some help, Let's see it together
-### * Homeworks
-### * Teshis
-### * Projects
-### * Find Job
+# Quieres ayuda, veámoslo juntos
+### * Tareas escolares
+### * Tesis
+### * Proyectos
+### * Encontrar trabajo
 
-### Contact us, we want to hear you!
+### ¡Contáctanos, queremos escucharte!
