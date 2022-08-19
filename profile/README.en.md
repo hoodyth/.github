@@ -1,6 +1,6 @@
 # Hello 👋, Welcome to Hoodyth 🚀
 
-🌏 [English](https://github.com/hoodyth/.github/blob/main/profile/README.en.md) | [Spanish](https://github.com/hoodyth/.github/blob/main/profile/README.es.md)
+🌏 [English](https://github.com/hoodyth/.github/blob/main/profile/README.en.md) | [Spanish](https://github.com/hoodyth/.github/blob/main/profile/README.md)
 
 # A Tech Community
 
