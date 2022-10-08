@@ -12,6 +12,8 @@
 
 <hr>
 
+# Únete a nuestro Discord <a href=" https://discord.gg/VJe9gqEZ">![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)</a>
+
 ### How to join the community?
 
 
