@@ -2,7 +2,7 @@
 
 🌏 [Inglés](https://github.com/hoodyth/.github/blob/main/profile/README.en.md) | [Español](https://github.com/hoodyth/.github/blob/main/profile/README.md)
 
-# Una comunidad tecnológica
+# Una comunidad tecnológica | Únete a nuestro Discord <a href="https://discord.gg/VJe9gqEZ">![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)</a>
 
 # Quieres ayuda, veámoslo juntos
 ### * Tareas escolares
@@ -11,9 +11,6 @@
 ### * Encontrar trabajo
 
 <hr>
-
-# Únete a nuestro Discord <a href="https://discord.gg/VJe9gqEZ">![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)</a>
-
 
 ### ¿Cómo unirme a la comunidad?
 
