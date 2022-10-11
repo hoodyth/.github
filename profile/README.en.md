@@ -19,7 +19,7 @@ Follow these steps:
 
 - [ ] Enter the following link <a href="https://hoodyth.herokuapp.com/" target="_blank">[I am the LINK]</a> 
 - [ ] Enter your **GitHub Username** without the @
-    - <a href="https://hoodyth.herokuapp.com/" target="_blank"><img width="432" alt="app" src="https://user-images.githubusercontent.com/23409026/194716710-134b124c-95ac-43d8-8443-6b220e369677.png"></a>
+    - <a href="https://hoodyth.herokuapp.com/" target="_blank"><img width="432" alt="app" src="https://user-images.githubusercontent.com/23409026/195025721-907a0c80-e7e7-4389-9ed5-10f1eabb714e.png"></a>
     - We will send you an email to join the organization
 - [ ] Accept the invitation
 - [ ] Enter to the community forum to see our upcoming events and exclusive content [I am the link to the forum](https://github.com/orgs/hoodyth/discussions)
