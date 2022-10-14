@@ -12,7 +12,7 @@
 
 <hr>
 
-### ¿Cómo unirme a la comunidad?
+### ¿Cómo unirme a la comunidad GitHub?
 
 Sigue estos pasos: 
 
