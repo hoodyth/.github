@@ -12,7 +12,7 @@
 
 <hr>
 
-### How to join the community?
+### How to join to this GitHub community?
 
 
 Follow these steps:
